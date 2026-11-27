@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'FairWork — Clear agreements for better freelance work',
-  description: 'Agree on scope, track milestone progress, and keep a shared record of decisions with FairWork.',
+  title: 'FairWork — Trust. Track. Deliver. Get Paid.',
+  description: 'A shared workspace for clear freelance agreements, milestone tracking, deliverable reviews, and payment accountability.',
   generator: 'v0.app',
   icons: {
     icon: [
